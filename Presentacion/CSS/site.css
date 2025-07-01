@@ -1,0 +1,15 @@
+﻿.ImagenVideo{
+  width:350px;
+  height:200px;
+  border-radius:20px;
+}
+
+.btn-registrar-video {
+    width: 150px;
+    height: 40px;
+}
+
+.btn-galeria-video {
+    width: 200px;
+    height: 50px;
+}

@@ -1,0 +1,88 @@
+D:\YouTubeDos\Negocios\bin\Debug\Negocios.dll
+D:\YouTubeDos\Negocios\bin\Debug\Negocios.pdb
+D:\YouTubeDos\Negocios\bin\Debug\Datos.dll
+D:\YouTubeDos\Negocios\bin\Debug\Entidades.dll
+D:\YouTubeDos\Negocios\bin\Debug\Datos.pdb
+D:\YouTubeDos\Negocios\bin\Debug\Entidades.pdb
+D:\YouTubeDos\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\YouTubeDos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\YouTubeDos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\YouTubeDos\Negocios\obj\Debug\Negocios.dll
+D:\YouTubeDos\Negocios\obj\Debug\Negocios.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\bin\Debug\Negocios.dll
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\bin\Debug\Negocios.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\bin\Debug\Datos.dll
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\bin\Debug\Entidades.dll
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\bin\Debug\Datos.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\bin\Debug\Entidades.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\obj\Debug\Negocios.dll
+D:\descargas\YouTubeDos\YouTubeDos\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Gabri\source\repos\cimatube\Negocios\bin\Debug\Negocios.dll
+C:\Users\Gabri\source\repos\cimatube\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Gabri\source\repos\cimatube\Negocios\bin\Debug\Datos.dll
+C:\Users\Gabri\source\repos\cimatube\Negocios\bin\Debug\Entidades.dll
+C:\Users\Gabri\source\repos\cimatube\Negocios\bin\Debug\Datos.pdb
+C:\Users\Gabri\source\repos\cimatube\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Gabri\source\repos\cimatube\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\cimatube\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\cimatube\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Gabri\source\repos\cimatube\Negocios\obj\Debug\Negocios.dll
+C:\Users\Gabri\source\repos\cimatube\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\bin\Debug\Negocios.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\bin\Debug\Datos.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\bin\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\bin\Debug\Datos.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\obj\Debug\Negocios.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Negocios\obj\Debug\Negocios.pdb
+C:\Users\rosaa\source\repos\cimatube\Negocios\bin\Debug\Negocios.dll
+C:\Users\rosaa\source\repos\cimatube\Negocios\bin\Debug\Negocios.pdb
+C:\Users\rosaa\source\repos\cimatube\Negocios\bin\Debug\Datos.dll
+C:\Users\rosaa\source\repos\cimatube\Negocios\bin\Debug\Entidades.dll
+C:\Users\rosaa\source\repos\cimatube\Negocios\bin\Debug\Datos.pdb
+C:\Users\rosaa\source\repos\cimatube\Negocios\bin\Debug\Entidades.pdb
+C:\Users\rosaa\source\repos\cimatube\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\rosaa\source\repos\cimatube\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\source\repos\cimatube\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\rosaa\source\repos\cimatube\Negocios\obj\Debug\Negocios.dll
+C:\Users\rosaa\source\repos\cimatube\Negocios\obj\Debug\Negocios.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\bin\Debug\Negocios.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\bin\Debug\Negocios.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\bin\Debug\Datos.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\bin\Debug\Entidades.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\bin\Debug\Datos.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\bin\Debug\Entidades.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\obj\Debug\Negocios.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\bin\Debug\Negocios.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\bin\Debug\Datos.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\bin\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\bin\Debug\Datos.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\obj\Debug\Negocios.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Negocios\obj\Debug\Negocios.pdb
+D:\4to Semestre\Cimatube\Negocios\bin\Debug\Negocios.dll
+D:\4to Semestre\Cimatube\Negocios\bin\Debug\Negocios.pdb
+D:\4to Semestre\Cimatube\Negocios\bin\Debug\Datos.dll
+D:\4to Semestre\Cimatube\Negocios\bin\Debug\Entidades.dll
+D:\4to Semestre\Cimatube\Negocios\bin\Debug\Datos.pdb
+D:\4to Semestre\Cimatube\Negocios\bin\Debug\Entidades.pdb
+D:\4to Semestre\Cimatube\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\4to Semestre\Cimatube\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Cimatube\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\4to Semestre\Cimatube\Negocios\obj\Debug\Negocios.dll
+D:\4to Semestre\Cimatube\Negocios\obj\Debug\Negocios.pdb

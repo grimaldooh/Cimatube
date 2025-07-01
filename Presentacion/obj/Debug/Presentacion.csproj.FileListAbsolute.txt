@@ -1,0 +1,650 @@
+D:\YouTubeDos\Presentacion\bin\Presentacion.dll.config
+D:\YouTubeDos\Presentacion\bin\Presentacion.dll
+D:\YouTubeDos\Presentacion\bin\Presentacion.pdb
+D:\YouTubeDos\Presentacion\bin\roslyn\csc.exe
+D:\YouTubeDos\Presentacion\bin\roslyn\csc.exe.config
+D:\YouTubeDos\Presentacion\bin\roslyn\csc.rsp
+D:\YouTubeDos\Presentacion\bin\roslyn\csi.exe
+D:\YouTubeDos\Presentacion\bin\roslyn\csi.exe.config
+D:\YouTubeDos\Presentacion\bin\roslyn\csi.rsp
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.AppContext.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Console.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\YouTubeDos\Presentacion\bin\roslyn\vbc.exe
+D:\YouTubeDos\Presentacion\bin\roslyn\vbc.exe.config
+D:\YouTubeDos\Presentacion\bin\roslyn\vbc.rsp
+D:\YouTubeDos\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\YouTubeDos\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\YouTubeDos\Presentacion\bin\Entidades.dll
+D:\YouTubeDos\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\YouTubeDos\Presentacion\bin\Negocios.dll
+D:\YouTubeDos\Presentacion\bin\Entidades.pdb
+D:\YouTubeDos\Presentacion\bin\Negocios.pdb
+D:\YouTubeDos\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\YouTubeDos\Presentacion\obj\Debug\Presentacion.dll
+D:\YouTubeDos\Presentacion\obj\Debug\Presentacion.pdb
+D:\YouTubeDos\Presentacion\bin\Datos.dll
+D:\YouTubeDos\Presentacion\bin\Datos.pdb
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Presentacion.dll.config
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Presentacion.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Presentacion.pdb
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\csc.exe
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\csc.rsp
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\csi.exe
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\csi.rsp
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\vbc.exe
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Entidades.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Negocios.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Datos.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Entidades.pdb
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Negocios.pdb
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\bin\Datos.pdb
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\vvmejia\Desktop\YouTubeDos\Presentacion\obj\Debug\Presentacion.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Presentacion.dll.config
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Presentacion.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Presentacion.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\csc.exe
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\csc.exe.config
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\csc.rsp
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\csi.exe
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\csi.exe.config
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\csi.rsp
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.AppContext.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Console.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\vbc.exe
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\vbc.exe.config
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\vbc.rsp
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Entidades.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Negocios.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Datos.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Entidades.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Negocios.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\bin\Datos.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\obj\Debug\Presentacion.dll
+D:\descargas\YouTubeDos\YouTubeDos\Presentacion\obj\Debug\Presentacion.pdb
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Presentacion.dll.config
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Presentacion.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Presentacion.pdb
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\csc.exe
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\csc.exe.config
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\csc.rsp
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\csi.exe
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\csi.exe.config
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\csi.rsp
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.AppContext.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Console.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\vbc.exe
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\vbc.exe.config
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\vbc.rsp
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Entidades.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Negocios.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Datos.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Entidades.pdb
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Negocios.pdb
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\bin\Datos.pdb
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\obj\Debug\Presentacion.dll
+D:\4to Semestre\Herramientas\Cimatube Teams\cimatube-master\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Presentacion.dll.config
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Presentacion.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Presentacion.pdb
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\csc.exe
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\csi.exe
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Entidades.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Negocios.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Datos.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\bin\Datos.pdb
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Angel\Documents\GitHub\cimatube\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Presentacion.dll.config
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Presentacion.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Presentacion.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\csc.exe
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\csc.rsp
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\csi.exe
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\csi.rsp
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\vbc.exe
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Entidades.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Negocios.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Datos.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Entidades.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Negocios.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\bin\Datos.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Presentacion.dll.config
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Presentacion.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Presentacion.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\csc.exe
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\csi.exe
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Entidades.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Negocios.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Datos.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\bin\Datos.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Presentacion.dll.config
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Presentacion.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Presentacion.pdb
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\csc.exe
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\csc.rsp
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\csi.exe
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\csi.rsp
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\vbc.exe
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Entidades.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Negocios.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Datos.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Entidades.pdb
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Negocios.pdb
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rosaa\source\repos\cimatube\Presentacion\bin\Datos.pdb
+C:\Users\rosaa\source\repos\cimatube\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rosaa\source\repos\cimatube\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\source\repos\cimatube\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rosaa\source\repos\cimatube\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\rosaa\source\repos\cimatube\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Presentacion.dll.config
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Presentacion.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Presentacion.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\csc.exe
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\csi.exe
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Entidades.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Negocios.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Datos.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Negocios.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\bin\Datos.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Presentacion\obj\Debug\Presentacion.pdb
+D:\4to Semestre\Cimatube\Presentacion\bin\Presentacion.dll.config
+D:\4to Semestre\Cimatube\Presentacion\bin\Presentacion.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\Presentacion.pdb
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\csc.exe
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\csc.exe.config
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\csc.rsp
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\csi.exe
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\csi.exe.config
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\csi.rsp
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.AppContext.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Console.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\vbc.exe
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\vbc.exe.config
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\vbc.rsp
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\4to Semestre\Cimatube\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\4to Semestre\Cimatube\Presentacion\bin\Entidades.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\Negocios.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\Datos.dll
+D:\4to Semestre\Cimatube\Presentacion\bin\Entidades.pdb
+D:\4to Semestre\Cimatube\Presentacion\bin\Negocios.pdb
+D:\4to Semestre\Cimatube\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\4to Semestre\Cimatube\Presentacion\bin\Datos.pdb
+D:\4to Semestre\Cimatube\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\4to Semestre\Cimatube\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Cimatube\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\4to Semestre\Cimatube\Presentacion\obj\Debug\Presentacion.dll
+D:\4to Semestre\Cimatube\Presentacion\obj\Debug\Presentacion.pdb

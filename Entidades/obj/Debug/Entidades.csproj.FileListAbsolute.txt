@@ -1,0 +1,47 @@
+D:\YouTubeDos\Entidades\bin\Debug\Entidades.dll
+D:\YouTubeDos\Entidades\bin\Debug\Entidades.pdb
+D:\YouTubeDos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\YouTubeDos\Entidades\obj\Debug\Entidades.dll
+D:\YouTubeDos\Entidades\obj\Debug\Entidades.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Entidades\bin\Debug\Entidades.dll
+D:\descargas\YouTubeDos\YouTubeDos\Entidades\bin\Debug\Entidades.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\descargas\YouTubeDos\YouTubeDos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\descargas\YouTubeDos\YouTubeDos\Entidades\obj\Debug\Entidades.dll
+D:\descargas\YouTubeDos\YouTubeDos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Entidades\bin\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Entidades\obj\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gabri\Source\Repos\cimatube\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gabri\Source\Repos\cimatube\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gabri\Source\Repos\cimatube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gabri\Source\Repos\cimatube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Source\Repos\cimatube\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gabri\Source\Repos\cimatube\Entidades\obj\Debug\Entidades.pdb
+C:\Users\rosaa\source\repos\cimatube\Entidades\bin\Debug\Entidades.dll
+C:\Users\rosaa\source\repos\cimatube\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rosaa\source\repos\cimatube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\rosaa\source\repos\cimatube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\source\repos\cimatube\Entidades\obj\Debug\Entidades.dll
+C:\Users\rosaa\source\repos\cimatube\Entidades\obj\Debug\Entidades.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Entidades\bin\Debug\Entidades.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Entidades\obj\Debug\Entidades.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Entidades\obj\Debug\Entidades.pdb
+D:\4to Semestre\Cimatube\Entidades\bin\Debug\Entidades.dll
+D:\4to Semestre\Cimatube\Entidades\bin\Debug\Entidades.pdb
+D:\4to Semestre\Cimatube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\4to Semestre\Cimatube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Cimatube\Entidades\obj\Debug\Entidades.dll
+D:\4to Semestre\Cimatube\Entidades\obj\Debug\Entidades.pdb

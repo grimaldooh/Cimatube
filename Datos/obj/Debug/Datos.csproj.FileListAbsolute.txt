@@ -1,0 +1,72 @@
+D:\YouTubeDos\Datos\bin\Debug\Datos.dll
+D:\YouTubeDos\Datos\bin\Debug\Datos.pdb
+D:\YouTubeDos\Datos\bin\Debug\Entidades.dll
+D:\YouTubeDos\Datos\bin\Debug\Entidades.pdb
+D:\YouTubeDos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\YouTubeDos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\YouTubeDos\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\YouTubeDos\Datos\obj\Debug\Datos.dll
+D:\YouTubeDos\Datos\obj\Debug\Datos.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Datos\bin\Debug\Datos.dll
+D:\descargas\YouTubeDos\YouTubeDos\Datos\bin\Debug\Datos.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Datos\bin\Debug\Entidades.dll
+D:\descargas\YouTubeDos\YouTubeDos\Datos\bin\Debug\Entidades.pdb
+D:\descargas\YouTubeDos\YouTubeDos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\descargas\YouTubeDos\YouTubeDos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\descargas\YouTubeDos\YouTubeDos\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\descargas\YouTubeDos\YouTubeDos\Datos\obj\Debug\Datos.dll
+D:\descargas\YouTubeDos\YouTubeDos\Datos\obj\Debug\Datos.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\bin\Debug\Datos.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\bin\Debug\Datos.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\bin\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\bin\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\obj\Debug\Datos.dll
+C:\Users\Angel\Documents\GitHub\cima_tube\Datos\obj\Debug\Datos.pdb
+C:\Users\Gabri\Source\Repos\cimatube\Datos\bin\Debug\Datos.dll
+C:\Users\Gabri\Source\Repos\cimatube\Datos\bin\Debug\Datos.pdb
+C:\Users\Gabri\Source\Repos\cimatube\Datos\bin\Debug\Entidades.dll
+C:\Users\Gabri\Source\Repos\cimatube\Datos\bin\Debug\Entidades.pdb
+C:\Users\Gabri\Source\Repos\cimatube\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gabri\Source\Repos\cimatube\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Source\Repos\cimatube\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gabri\Source\Repos\cimatube\Datos\obj\Debug\Datos.dll
+C:\Users\Gabri\Source\Repos\cimatube\Datos\obj\Debug\Datos.pdb
+C:\Users\rosaa\source\repos\cimatube\Datos\bin\Debug\Datos.dll
+C:\Users\rosaa\source\repos\cimatube\Datos\bin\Debug\Datos.pdb
+C:\Users\rosaa\source\repos\cimatube\Datos\bin\Debug\Entidades.dll
+C:\Users\rosaa\source\repos\cimatube\Datos\bin\Debug\Entidades.pdb
+C:\Users\rosaa\source\repos\cimatube\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\rosaa\source\repos\cimatube\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\source\repos\cimatube\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\rosaa\source\repos\cimatube\Datos\obj\Debug\Datos.dll
+C:\Users\rosaa\source\repos\cimatube\Datos\obj\Debug\Datos.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\bin\Debug\Datos.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\bin\Debug\Datos.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\bin\Debug\Entidades.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\bin\Debug\Entidades.pdb
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\obj\Debug\Datos.dll
+C:\Users\rosaa\Source\Repos\cima_tube\Datos\obj\Debug\Datos.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\bin\Debug\Datos.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\bin\Debug\Datos.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\bin\Debug\Entidades.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\bin\Debug\Entidades.pdb
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\obj\Debug\Datos.dll
+C:\Users\Angel\Documents\GitHub\Cimatube3\Datos\obj\Debug\Datos.pdb
+D:\4to Semestre\Cimatube\Datos\bin\Debug\Datos.dll
+D:\4to Semestre\Cimatube\Datos\bin\Debug\Datos.pdb
+D:\4to Semestre\Cimatube\Datos\bin\Debug\Entidades.dll
+D:\4to Semestre\Cimatube\Datos\bin\Debug\Entidades.pdb
+D:\4to Semestre\Cimatube\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\4to Semestre\Cimatube\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Cimatube\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\4to Semestre\Cimatube\Datos\obj\Debug\Datos.dll
+D:\4to Semestre\Cimatube\Datos\obj\Debug\Datos.pdb
